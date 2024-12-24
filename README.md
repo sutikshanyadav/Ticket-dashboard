@@ -2,6 +2,7 @@
 
 Open your browser and navigate to http://localhost:3000.
 
+
 Features
 View Tickets: Displays a list of tickets with detailed information.
 Search: Filter tickets based on query subject, client code, or username.
@@ -14,6 +15,7 @@ Clone the repository:
 bash
 Copy code
 git clone <repository-url>
+
 
 Install dependencies:
 bash

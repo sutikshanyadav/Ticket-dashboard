@@ -1,5 +1,41 @@
 # Getting Started with Create React App
 
+Open your browser and navigate to http://localhost:3000.
+
+Features
+View Tickets: Displays a list of tickets with detailed information.
+Search: Filter tickets based on query subject, client code, or username.
+Create/Update Tickets: Add new tickets or update existing ones using a dialog form.
+Notifications: Alerts for successful or failed operations.
+Critical Status Highlighting: Marks critical tickets for better visibility.
+
+Installation
+Clone the repository:
+bash
+Copy code
+git clone <repository-url>
+
+Install dependencies:
+bash
+Copy code
+npm install
+
+
+Start the development server:
+bash
+Copy code
+npm start
+
+File Structure
+bash
+Copy code
+src/
+├── components/          
+├── pages/
+│   └── TicketDashboard.jsx  
+├── App.js               
+├── index.js   
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
